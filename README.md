@@ -2,7 +2,7 @@
 How to use CNN and ANN in deeplearning to identify the hand written digits.
 
 
-# DeepLearning is the root directory in which DeepLearning.ipynb has all the basics of python, numpy and matplotlib are mentioned.
+# DeepLearning is the root directory in which DeepLearning.ipynb has all the basics of python, numpy and matplotlib.
 In this Jupyter notebook file, you will come across the brief introduction to the above libraries and Machine Learning definitions, which are written in plain english.
 
 # DeepLearning > ImageClassificatino
